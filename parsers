@@ -1,6 +1,6 @@
 parsers: # array
   - reg: ^.*$ 
-  #- url: https://sub-01.767564.xyz/api/v1/client/subscribe?token=x
+  #- url: https://
   # - reg: ^.*$ 匹配所有订阅，或  - url: https://example.com/profile.yaml 指定订阅
   # 下面是删除服务商自带的策略组和规则
     code: |
